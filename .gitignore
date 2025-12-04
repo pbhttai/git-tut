@@ -1,0 +1,8 @@
+db.sql
+passwords.txt
+
+# Ignore file types
+*.log
+
+node_modules/
+!important.log
